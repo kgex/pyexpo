@@ -5,7 +5,7 @@
 | ------------- | ------------- |------------|
 | Emojinator | R2-D2 | [Samual](https://github.com/samualmartin) |
 | Video to Slide | ZenX  | [Paul Raj](https://github.com/paulraj916)  - [Jalathan](https://github.com/jalathan) |
-| Story and Question Answering |  ZenX  | [Surya](https://github.com/suryacreatx) - [Jaayaraajadhanus](https://github.com/JAAYARAAJADHANUS/JAAYAARAAJADHANUS.git) |
+| Story and Question Answering |  Elite  | [Surya](https://github.com/suryacreatx) - [Jaayaraajadhanus](https://github.com/JAAYARAAJADHANUS/JAAYAARAAJADHANUS.git) |
 | Tic Tac Toe with AI | Hustlers  | [Aakash](https://github.com/aakashbd) |
 | Social Distance Monitoring | F.R.I.D.A.Y | [Siranjevi](https://github.com/21cb54siranjevi)|
 | Face Mask Detection | Rockers | [Guru](https://github.com/Guruprasath-556) |
