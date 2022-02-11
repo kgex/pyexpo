@@ -12,6 +12,7 @@ Project Title : Social distance monitoring
 
 ### By
 
-![PYEXPO 2022-2](https://user-images.githubusercontent.com/94344801/153557697-77f1a912-03f2-4019-8263-d6be68e9dbf7.png)
+![PYEXPO 2022](https://user-images.githubusercontent.com/94344801/153593862-a9054a7b-55c2-490a-b9a5-c1976738bdb8.png)
+
 
 
